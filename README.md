@@ -1,3 +1,2 @@
 # Project_Pneumonia_Detection_ChestXray_CNN
-fdjgdhgfuhygf
-vxhxgfgyfg
+Image classification problem to diagnose pneumonia using CNN
